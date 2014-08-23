@@ -1,5 +1,5 @@
+# -*- coding UTF-8 -*-
 def game():
-  # -*- coding UTF-8 -*-
 
   import random
   import time
