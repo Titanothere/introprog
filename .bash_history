@@ -64,3 +64,34 @@ git remote add orgin
 git remote add origin https://github.com/Ygge95/introprog
 git add workspace/
 git pull https://github.com/Ygge95/introprog
+git add workspace/
+git commit -m 'xrange'
+git init
+git add workspace/
+git push origin master
+git pull origin master
+git add .
+git add workspace/
+git commit -m 'xrange'
+git push origin master
+ls
+git add .
+ls
+git commit -m 'testing push to github'
+git log
+git log -p -2
+git log
+git log --stat -1
+git init
+git add workspace/
+git commit -m 'xrange'
+git push origin master
+git remote add origin https://github.com/Ygge95/introprog
+git status
+git status
+git add .
+cd
+git remote origin
+python main.py 
+python Yatzy/main.py
+python Yatzy/main.py
