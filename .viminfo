@@ -11,6 +11,7 @@
 ~MSle0~/\V\<Merge\>
 
 # Command Line History (newest to oldest):
+:q
 :wuit
 :quit
 
@@ -25,20 +26,21 @@
 # Registers:
 
 # File marks:
-'0  7  0  ~/.git/MERGE_MSG
-'1  5  1  ~/.git/MERGE_MSG
-'2  6  69  ~/.git/MERGE_MSG
+'0  1  0  ~/.git/MERGE_MSG
+'1  7  0  ~/.git/MERGE_MSG
+'2  5  1  ~/.git/MERGE_MSG
+'3  6  69  ~/.git/MERGE_MSG
 
 # Jumplist (newest first):
--'  7  0  ~/.git/MERGE_MSG
 -'  1  0  ~/.git/MERGE_MSG
+-'  7  0  ~/.git/MERGE_MSG
 -'  5  1  ~/.git/MERGE_MSG
 -'  6  69  ~/.git/MERGE_MSG
 
 # History of marks within files (newest to oldest):
 
 > ~/.git/MERGE_MSG
-	"	7	0
+	"	1	0
 	^	7	6
 	.	8	0
 	+	1	41
